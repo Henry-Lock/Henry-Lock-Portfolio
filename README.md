@@ -1,4 +1,4 @@
-# STT-303-Final-Project
+# STT-303-Final-Project Henry Lock
 # This Github project contains my deliverables for the final project is STT 303 Spring, 2025.
 # That includes my R script, the final project report, and the presentation slides.
 
